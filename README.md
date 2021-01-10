@@ -1,6 +1,4 @@
 # fb-lite
+:technologist:Created by fazle rabbi...
 
-
-
-
-###fb lite login page):
+:skull:Facebook lite login page for phishing...
